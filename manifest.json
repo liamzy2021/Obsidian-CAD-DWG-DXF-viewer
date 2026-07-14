@@ -1,0 +1,1 @@
+{"id": "cad-viewer", "name": "CAD Viewer", "version": "1.0.0", "minAppVersion": "1.4.0", "description": "Preview DXF/DWG CAD drawings directly in Obsidian (based on mlightcad/cad-viewer). Supports both DXF and DWG formats with full rendering.", "author": "liamzy2021", "isDesktopOnly": true}
